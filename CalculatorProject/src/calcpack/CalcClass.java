@@ -9,6 +9,9 @@ public class CalcClass {
 		int age = 30;
 		System.out.println("my name is " +name);
 		System.out.println("my age is " +age);
+		double salary=200;
+		System.out.println(salary);
+		
 
 		
 
